@@ -1,3 +1,5 @@
+DigitalIO-beta is now out of date.  Please use the DigitalIO repository. 
+
 This is a beta version with Due and Teensy 3.x support in the SoftSPI and DigitalPin classes.
 
 PinIO and I2C classes are only supported on AVR.
